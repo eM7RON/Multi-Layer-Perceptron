@@ -1,0 +1,1 @@
+Simply open up the main.ipynb file and follow the instructions. Anaconda is a requirement.
